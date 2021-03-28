@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ankeshh
-- 🌱 I’m currently learning frontend web developing
+- coding is sus
 
 <!---
 ankeshh/ankeshh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
